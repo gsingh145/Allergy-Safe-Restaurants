@@ -100,4 +100,29 @@ CREATE TABLE menu_items (
 
 ### Backend
 
+```
+cd server
+npm install   #updates all dependcies
+node main.js  #run the backend
+```
+
+
 ### Frontend
+- React / React Native
+  - UseEffect
+  - useState
+  - Components
+- CSS/HTML
+
+### DB
+```
+cd db
+sudo -i -u postgres  # switching to the correct user
+psql            # opens up the psql cli
+\dt             # show all avaible tables
+\d  <tablename>  # show data for a given table
+
+SELECT * FROM restaurants;
+# gets all rows from the table
+
+```
