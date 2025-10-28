@@ -126,3 +126,10 @@ SELECT * FROM restaurants;
 # gets all rows from the table
 
 ```
+
+
+### Testing Steps
+
+1. Open windows powershell app
+2. click on the dropdown and choose ubuntu terminal
+3. write "Code Allergey-Safe_resturnat" in terminal
